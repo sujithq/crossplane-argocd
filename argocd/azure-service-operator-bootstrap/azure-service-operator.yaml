@@ -17,7 +17,7 @@ spec:
     path: azure-service-operator
   destination:
     server: https://kubernetes.default.svc
-    namespace: azure-service-operator-system
+    namespace: azureserviceoperator-system
   syncPolicy:
     automated:
       prune: true    
