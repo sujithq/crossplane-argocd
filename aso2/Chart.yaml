@@ -1,0 +1,9 @@
+apiVersion: v2
+type: application
+name: crossplane-aso2
+version: 0.0.0 # unused
+appVersion: 0.0.0 # unused
+dependencies:
+  - name: azure-service-operator
+    repository: https://raw.githubusercontent.com/Azure/azure-service-operator/main/v2/charts
+    version: 2.13.0
