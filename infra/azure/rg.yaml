@@ -1,7 +1,7 @@
 apiVersion: azure.upbound.io/v1beta1
 kind: ResourceGroup
 metadata:
-  name: rg-ucb-007
+  name: rg-ucb-009
 spec:
   forProvider:
     location: West Europe
