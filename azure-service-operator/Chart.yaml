@@ -1,6 +1,6 @@
 apiVersion: v2
 type: application
-name: crossplane-aso2
+name: crossplane-azure-service-operator
 version: 0.0.0 # unused
 appVersion: 0.0.0 # unused
 dependencies:
