@@ -6,4 +6,4 @@ appVersion: 0.0.0 # unused
 dependencies:
   - name: azure-service-operator
     repository: https://raw.githubusercontent.com/Azure/azure-service-operator/main/v2/charts
-    version: 2.13.0
+    version: 2.9.0 # 2.13.0 is latest release, but 2.9.0 is the last one with a chart
