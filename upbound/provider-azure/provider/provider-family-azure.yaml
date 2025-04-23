@@ -1,0 +1,6 @@
+﻿apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: provider-family-azure
+spec:
+  package: xpkg.crossplane.io/crossplane-contrib/provider-family-azure:v1.11.2
